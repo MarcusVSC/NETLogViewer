@@ -1,6 +1,6 @@
 {
-  "name": "ModMail Log Viewer",
-  "description": "A simple webserver to view selfhosted logs",
+  "name": "NET Logs",
+  "description": "Webserver specially made for NET owned byh Dino",
   "repository": "https://github.com/kyb3r/logviewer",
   "env": {
     "MONGO_URI": {
